@@ -3,3 +3,5 @@ balanced-dataset
 dataset-dapa
 cleanenv
 *.pth
+*.pt
+*runs*
